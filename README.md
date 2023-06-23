@@ -1,4 +1,4 @@
-# Getting Started with Mini-react-projects
+# Quote Generator
 
 Here you can enjoy mini-react projects. 
 To install in your VS code (code editor), open terminal and type 
